@@ -3,7 +3,7 @@
   alt="banner quoting 'learning to be the best version of myself'"
   style="display: inline-block; margin: 0 auto; width: 100%;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=100&color=00F768&vCenter=true&width=435&lines=Hello+you!+%F0%9F%A4%96;Nice+to+screen-meet+you!...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=100&color=00F768&vCenter=true&width=435&lines=Hello+you!+%F0%9F%A4%96;Nice+to+e-meet+you!...)](https://git.io/typing-svg)
 
 # I am Emanuel ITurres!
 
