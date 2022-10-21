@@ -20,4 +20,5 @@
 ### **🟠 <a href="mailto:emanueliturres.co@gmail.com" target="_blanck">Gmail</a>**
 <br>
 <br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=MedievalSharp&size=26&pause=100&color=F7DC00&vCenter=true&width=435&lines=+%E2%9A%9C+have+a+great+day+%E2%9A%9C)](https://git.io/typing-svg)
