@@ -7,7 +7,7 @@
 
 # I am Emanuel ITurres!
 
-## My Skills so far___________________________________[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vscode,figma,linux,cmd)](https://skillicons.dev)
+## My Skills so far____________________[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vscode,figma,linux,cmd)](https://skillicons.dev)
 
 <img
   src="media/img/github-about-me.jpg"
