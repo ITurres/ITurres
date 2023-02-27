@@ -13,7 +13,7 @@
 
 # <p style="color: turquoise">learning...</p>
 
-## [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,c,python,vscode,figma,linux)](https://skillicons.dev)
+## [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,c,python,sqlite,regex,linux,bash,figma)](https://skillicons.dev)
 
 <br>
 <br>
