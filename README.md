@@ -9,11 +9,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&pause=100&color=3F1B84FF&center=true&vCenter=true&width=435&lines=Hello+you!+%F0%9F%A4%96;Nice+to+e-meet+you!...)](https://git.io/typing-svg)
 
-# <h1 style="color: purple; -webkit-text-stroke: 2px offBlack">I am Emanuel ITurres!</h1>
+# <h1 style="color: purple; -webkit-text-stroke: 2px offBlack">I am Arthur ITurres!</h1>
 
 # <p style="color: #d82dff">learning...</p>
 
-## [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,c,python,vscode,figma,linux)](https://skillicons.dev)
+## [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,c,python,sqlite,regex,linux,bash,figma)](https://skillicons.dev)
 
 <br>
 <br>
