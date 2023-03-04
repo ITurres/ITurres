@@ -9,9 +9,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&pause=100&color=3F1B84FF&center=true&vCenter=true&width=435&lines=Hello+you!+%F0%9F%A4%96;Nice+to+e-meet+you!...)](https://git.io/typing-svg)
 
-# <h1 style="color: purple; -webkit-text-stroke: 2px offBlack">I am Arthur ITurres!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=10000&color=8C1D8CFF&center=true&vCenter=true&width=435&lines=I+am+Arthur+Iturres!)](https://git.io/typing-svg)
 
-# <p style="color: #d82dff">learning...</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=10000&color=D82DFFFF&center=true&vCenter=true&width=435&lines=learning...)](https://git.io/typing-svg)
 
 ## [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,c,python,sqlite,regex,linux,bash,figma)](https://skillicons.dev)
 
@@ -25,7 +25,7 @@
 
 <br>
 
-# <p style="color: #6523C1FF; font-size: 2rem">To contact me...</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=10000&color=6523C1FF&center=true&vCenter=true&width=435&lines=To+contact+me...)](https://git.io/typing-svg)
 
 ### **🔵 [LinkedIN](https://www.linkedin.com/in/emanuel-iturres/)**
 
