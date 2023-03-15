@@ -13,7 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=10000&color=D82DFFFF&center=true&vCenter=true&width=435&lines=learning...)](https://git.io/typing-svg)
 
-## [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,c,python,sqlite,regex,linux,bash,figma)](https://skillicons.dev)
+## [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,c,python,flask,sqlite,regex,linux,bash,figma)](https://skillicons.dev)
 
 <br>
 <br>
