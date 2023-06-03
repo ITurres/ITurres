@@ -33,6 +33,16 @@
 
 <br>
 
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=6626be&hide_border=true&title_color=6626be&text_color=fff&bg_color=090716">
+  <br>
+    <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&title_color=6626be&text_color=fff&bg_color=090716">
+</p>
+  
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ITurres&color=a441f1&style=for-the-badge&label=PROFILE+VIEWS">  
+</p>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&pause=100&color=D136FEFF&center=true&vCenter=true&width=1000&lines=+%E2%9A%9C+HAVE+A+GREAT+DAY+%E2%9A%9C)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6324bb&height=120&section=footer"/>
