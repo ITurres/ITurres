@@ -7,7 +7,7 @@
 
 <div style="text-align: center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&pause=100&color=3F1B84FF&center=true&vCenter=true&width=1000&lines=Hello+you!+%F0%9F%A4%96;Nice+to+e-meet+you!...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=37&pause=100&color=f8c0ff&center=true&vCenter=true&width=1000&lines=Hello+you!+%F0%9F%A4%96;Nice+to+e-meet+you!...)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=10000&color=8C1D8CFF&center=true&vCenter=true&width=1000&lines=I+am+Arthur+Iturres!)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,git,c,python,flask,sqlite,regex,linux,bash,figma" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,git,c,python,flask,sqlite,regex,linux,bash,figma" />
     </a>
   </p>
 </div>
@@ -34,9 +34,9 @@
 <br>
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=6626be&hide_border=true&title_color=6626be&text_color=fff&bg_color=090716">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=6626be&hide_border=true&title_color=6626be&text_color=fdedff&bg_color=090716">
   <br>
-    <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&title_color=6626be&text_color=fff&bg_color=090716">
+    <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&title_color=6626be&text_color=fdedff&bg_color=090716">
 </p>
   
 <p align="center">
