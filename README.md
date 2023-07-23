@@ -1,18 +1,18 @@
 <img
-  src="media/img/purple-github-banner.jpg"
+  src="media/img/github-lb-header.jpg"
   alt="banner quoting 'learning to be the best version of myself'"
   style="display: inline-block; margin: 0 auto; width: 100%;">
 
 <br>
 
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=1491e9&hide_border=true&title_color=1491e9&text_color=eef8ff&bg_color=042031">
+</p>
+
 <div style="text-align: center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=37&pause=100&color=f8c0ff&center=true&vCenter=true&width=1000&lines=Hello+you!+%F0%9F%A4%96;Nice+to+e-meet+you!...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=15000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=learning...)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=10000&color=8C1D8CFF&center=true&vCenter=true&width=1000&lines=I+am+Arthur+Iturres!)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=10000&color=D82DFFFF&center=true&vCenter=true&width=1000&lines=learning...)](https://git.io/typing-svg)
-  
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -27,23 +27,21 @@
 <br>
 
 <img
-  src="media/img/purple-github-about-me.jpg"
-  alt="image with my hobbies and languages info"
+  src="media/img/github-lb-hero.jpg"
+  alt="image with info about me"
   style="display: inline-block; margin: 0 auto; width: 100%;">
 
 <br>
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=6626be&hide_border=true&title_color=6626be&text_color=fdedff&bg_color=090716">
-  <br>
-    <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&title_color=6626be&text_color=fdedff&bg_color=090716">
+    <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&title_color=1491e9&text_color=eef8ff&bg_color=042031">
 </p>
   
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ITurres&color=a441f1&style=for-the-badge&label=PROFILE+VIEWS">  
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ITurres&color=5ec3f6&style=for-the-badge&label=PROFILE+VIEWS">  
 </p>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&pause=100&color=D136FEFF&center=true&vCenter=true&width=1000&lines=+%E2%9A%9C+HAVE+A+GREAT+DAY+%E2%9A%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&pause=100&color=148FEC&center=true&vCenter=true&width=1000&lines=+%E2%9A%9C+HAVE+A+GREAT+DAY+%E2%9A%9C)](https://git.io/typing-svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6324bb&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1491e9&height=120&section=footer"/>
 </div>
