@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=1491e9&hide_border=true&title_color=1491e9&text_color=eef8ff&bg_color=042031">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=22aff3&hide_border=true&title_color=22aff3&text_color=eef8ff&bg_color=042031">
 </p>
 
 <div style="text-align: center">
@@ -20,10 +20,7 @@
     </a>
   </p>
 </div>
-  
-<!--   ## [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,c,python,flask,sqlite,regex,linux,bash,figma)](https://skillicons.dev)
- -->
-<br>
+
 <br>
 
 <img
@@ -34,7 +31,7 @@
 <br>
 
 <p align="center">
-    <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&title_color=1491e9&text_color=eef8ff&bg_color=042031">
+    <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&title_color=22aff3&text_color=eef8ff&bg_color=042031">
 </p>
   
 <p align="center">
