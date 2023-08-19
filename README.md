@@ -7,7 +7,7 @@
 
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=22aff3&hide_border=true&title_color=22aff3&text_color=eef8ff&bg_color=042031">
-    <img alt= "streak" src="https://github-readme-streak-stats.herokuapp.com?user=ITurres&hide_border=true&date_format=j%20M%5B%20Y%5D&background=042031&currStreakNum=EEF8FF&currStreakLabel=EEF8FF&dates=22AFF3&ring=22AFF3&fire=19B9EB&sideLabels=EEF8FF&sideNums=22AFF3">
+    <img alt= "streak" src="https://github-readme-streak-stats.herokuapp.com?user=ITurres&hide_border=true&date_format=j%20M%5B%20Y%5D&&card_width=400&background=042031&currStreakNum=EEF8FF&currStreakLabel=EEF8FF&dates=22AFF3&ring=22AFF3&fire=19B9EB&sideLabels=EEF8FF&sideNums=22AFF3">
 </p>
 
 <div style="text-align: center">
@@ -40,6 +40,5 @@
 </p>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&pause=100&color=148FEC&center=true&vCenter=true&width=1000&lines=+%E2%9A%9C+HAVE+A+GREAT+DAY+%E2%9A%9C)](https://git.io/typing-svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1491e9&height=120&section=footer"/>
 </div>
