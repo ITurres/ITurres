@@ -28,21 +28,24 @@
   src="media/img/github-lb-hero.jpg"
   alt="image with info about me"
   style="display: inline-block; margin: 0 auto; width: 100%;"> -->
-<ul style="background: #042031; color: white; padding: 1rem; list-style-type: none; border-radius: 4px;">
-  <li style="color: #22AFF3; font-size: 1.5rem;">a bit about myself:</li>
-  <br>
-    <li>&#128104; I am a self taught web developer.</li>
-    <li>&#127979; But, currently enroll in a a remote software development school.</li>
-    <li>&#128218; Fond of Technical and Traveling Books.</li>
-    <li>&#128640; I thrive collaborating, organizing and working along with my peers.</li>
-    <li>&#127808; I'm en route to realizing my second dream, having accomplished the first.</li>
-    <li>&#8986; I do a bit of watch making.</li>
-  <br>
-    <li style="color: #22AFF3; font-size: 1.5rem;">Future goals:</li>
-    <li>&#129366; Learn French.</li>
-    <li>&#128038; Learn Swift.</li>
-    <li>&#127938; Learn Snowboarding.</li>
-</ul>
+
+```js
+const profileData = {
+  aboutMe: [
+    "👨‍💻 I am a self-taught web developer.",
+    "💻 Currently enrolled in a remote software development school.",
+    "📚 Fond of technical and traveling books.",
+    "👥 I thrive on collaborating, organizing, and working with my peers.",
+    "🚀 I'm on my way to realizing my second dream, having accomplished the first.",
+    "⌚ I do a bit of watchmaking.",
+  ],
+  futureGoals: [
+    "🇫🇷 Learn French.",
+    "📱 Learn Swift.",
+    "🏂 Learn Snowboarding.",
+  ],
+};
+```
 
 <br>
 
