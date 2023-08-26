@@ -35,13 +35,13 @@ const profileData = {
     "👨‍💻 I am a self-taught web developer.",
     "💻 Currently enrolled in a remote software development school.",
     "📚 Fond of technical and traveling books.",
-    "👥 I thrive on collaborating, organizing, and working with my peers.",
-    "🚀 I'm on my way to realizing my second dream, having accomplished the first.",
+    "🚀 I thrive on collaborating, organizing, and working with my peers.",
+    "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
     "⌚ I do a bit of watchmaking.",
   ],
   futureGoals: [
-    "🇫🇷 Learn French.",
-    "📱 Learn Swift.",
+    "🥖 Learn French.",
+    "🐦 Learn Swift.",
     "🏂 Learn Snowboarding.",
   ],
 };
