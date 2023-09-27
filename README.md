@@ -57,6 +57,5 @@ const profileData = {
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ITurres&color=5ec3f6&style=for-the-badge&label=PROFILE+VIEWS">  
 </p>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&pause=100&color=22AFF3&center=true&vCenter=true&width=1000&lines=+%E2%9A%9C+HAVE+A+GREAT+DAY+%E2%9A%9C)](https://git.io/typing-svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1491e9&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1491e9&height=120&section=footer"/>
 </div>
