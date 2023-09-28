@@ -3,7 +3,7 @@
   alt="banner quoting 'learning to be the best version of myself'"
   style="display: inline-block; margin: 0 auto; width: 100%;">
 
-<br>
+<be>
 
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=22aff3&hide_border=true&title_color=22aff3&text_color=eef8ff&bg_color=042031">
@@ -50,7 +50,11 @@ const profileData = {
 <br>
 
 <p align="center">
-    <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&hide=html&title_color=22aff3&text_color=eef8ff&bg_color=042031&layout=donut">
+  <img alt = "Github contributor rank" src="https://aktive.tk/argentina/ITurres?label=ITurres+has+been&labelColor=042031&color=22aff3&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
+</p>
+
+<p align="center">
+  <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&hide=html&title_color=22aff3&text_color=eef8ff&bg_color=042031&layout=donut"/>
 </p>
   
 <p align="center">
