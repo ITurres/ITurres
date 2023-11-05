@@ -54,7 +54,7 @@ const profileData = {
 </p>
 
 <p align="center">
-  <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&hide=html&title_color=22aff3&text_color=eef8ff&bg_color=042031&layout=donut"/>
+  <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&hide=html,css&title_color=22aff3&text_color=eef8ff&bg_color=042031&layout=donut"/>
 </p>
   
 <p align="center">
