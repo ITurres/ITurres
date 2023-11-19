@@ -29,23 +29,49 @@
   alt="image with info about me"
   style="display: inline-block; margin: 0 auto; width: 100%;"> -->
 
-```rb
-profile_data = {
-  about_me: [
-    "👨‍💻 I am a self-taught web developer.",
-    "💻 Currently enrolled in a remote software development school.",
-    "📚 Fond of technical and travelling books.",
-    "🚀 I thrive on collaborating, organizing, and working with my peers.",
+```js
+const profileData = {
+  aboutMe: [
+    '👨‍💻 I am a self-taught web developer.',
+    '💻 Focus on front-end development.',
+    '💻 Learning back-end development.',
+    '📚 Fond of technical, travel books, and more.',
+    '🚀 I thrive on collaborating, organizing, and working with peers.',
     "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
-    "⌚ I do a bit of watchmaking."
+    '⌚ I do a bit of watchmaking.',
+  ],
+  futureLearningGoals: [
+    '🥖 French.',
+    '🐦 Swift.',
+    '🅰️ Angular.',
+    '🏂 Snowboarding.',
+  ],
+  booksIRecommend: {
+    technicalBooks: [
+      '📖 The Pragmatic Programmer - By Andrew Hunt and David Thomas',
+      '📘 ProGit - By Scott Chacon and Ben Straub',
+      '📘 Think Like a Programmer - By V. Anton Spraul',
+      '📖 Javascript The definitive Guide - By David Flanagan',
+      '📘 Learning React - By Alex Banks and Eve Porcello',
+      '📖 Redux in Action - By Marc Garreau and Will Faurot',
+      '📖 The Ruby programming language - By David Flanagan and Yukihiro Matsumoto',
     ],
-  future_goals: [
-    "🥖 Learn French.",
-    "🐦 Learn Swift.",
-    "🅰️ Learn Angular.",
-    "🏂 Learn Snowboarding."
-  ]
-}
+    selfHelpBooks: [
+      '📗 Feel The Fear And Do It Anyway - By Susan Jeffers',
+      '📗 Ego is the Enemy - By Ryan Holiday',
+      '📗 Growth Mindset - By Carol S. Dweck',
+      '📗 Declutter Your Mind - By S.J. Scott and Barrie Davenport',
+    ],
+    travelBooks: [
+      '📙 Hitchhiking in The Axis of Evil - By Juan Pablo Villarino',
+      '📙 Always the west - By J.M. Romero',
+      '📙 Magic is traveling - By Aldana Chiodi and Dino Feldman',
+      '📙 A Tango in Tibet - By Juan Pablo Villarino',
+      '📙 The Alchemist - By Paulo Coelho',
+    ],
+  },
+};
+
 
 ```
 
