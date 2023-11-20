@@ -6,8 +6,8 @@
 <be>
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=22aff3&hide_border=true&title_color=22aff3&text_color=eef8ff&bg_color=042031&rank_icon=percentile&include_all_commits=true">
-    <img alt= "streak" src="https://github-readme-streak-stats.herokuapp.com?user=ITurres&hide_border=true&date_format=j%20M%5B%20Y%5D&&card_width=400&background=042031&currStreakNum=EEF8FF&currStreakLabel=EEF8FF&dates=22AFF3&ring=22AFF3&fire=F3AC38&sideLabels=EEF8FF&sideNums=22AFF3">
+    <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=22aff3&hide_border=true&title_color=22aff3&text_color=eef8ff&bg_color=042031&rank_icon=percentile&include_all_commits=true">
+    <img alt= "GitHub Streaks is experiencing some issues..." src="https://github-readme-streak-stats.herokuapp.com?user=ITurres&hide_border=true&date_format=j%20M%5B%20Y%5D&&card_width=400&background=042031&currStreakNum=EEF8FF&currStreakLabel=EEF8FF&dates=22AFF3&ring=22AFF3&fire=F3AC38&sideLabels=EEF8FF&sideNums=22AFF3">
 </p>
 
 <div style="text-align: center">
@@ -78,7 +78,7 @@ const profileData = {
 <br>
 
 <p align="center">
-  <img alt = "Github contributor rank" src="https://aktive.tk/argentina/ITurres?label=ITurres+has+been&labelColor=042031&color=22aff3&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
+  <img alt = "Github contributor rank is experiencing some issues..." src="https://aktive.tk/argentina/ITurres?label=ITurres+has+been&labelColor=042031&color=22aff3&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
 </p>
 
 <p align="center">
