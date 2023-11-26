@@ -39,6 +39,7 @@ const profileData = {
     '🚀 I thrive on collaborating, organizing, and working with peers.',
     "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
     '⌚ I do a bit of watchmaking.',
+    '🙇🏻‍♂️ Currently learning TypeScript, Rails and DSA.',
   ],
   futureLearningGoals: [
     '🥖 French.',
