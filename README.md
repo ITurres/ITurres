@@ -79,7 +79,7 @@ const profileData = {
 <br>
 
 <p align="center">
-  <img alt = "Github contributor rank is experiencing some issues..." src="https://aktive.tk/argentina/ITurres?label=ITurres+has+been&labelColor=042031&color=22aff3&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
+  <img alt = "Github contributor rank is experiencing some issues..." src="https://aktive.kerolloz.dev/argentina/ITurres?label=ITurres+has+been&labelColor=042031&color=22aff3&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
 </p>
 
 <p align="center">
