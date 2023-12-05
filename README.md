@@ -46,35 +46,57 @@ const profileData = {
     '🐦 Swift.',
     '🅰️ Angular.',
     '🏂 Snowboarding.',
-  ],
-  booksIRecommend: {
-    technicalBooks: [
-      '📖 The Pragmatic Programmer - By Andrew Hunt and David Thomas',
-      '📘 ProGit - By Scott Chacon and Ben Straub',
-      '📘 Think Like a Programmer - By V. Anton Spraul',
-      '📖 Javascript The definitive Guide - By David Flanagan',
-      '📘 Learning React - By Alex Banks and Eve Porcello',
-      '📖 Redux in Action - By Marc Garreau and Will Faurot',
-      '📖 The Ruby programming language - By David Flanagan and Yukihiro Matsumoto',
-    ],
-    selfHelpBooks: [
-      '📗 Feel The Fear And Do It Anyway - By Susan Jeffers',
-      '📗 Ego is the Enemy - By Ryan Holiday',
-      '📗 Growth Mindset - By Carol S. Dweck',
-      '📗 Declutter Your Mind - By S.J. Scott and Barrie Davenport',
-    ],
-    travelBooks: [
-      '📙 Hitchhiking in The Axis of Evil - By Juan Pablo Villarino',
-      '📙 Always the west - By J.M. Romero',
-      '📙 Magic is traveling - By Aldana Chiodi and Dino Feldman',
-      '📙 A Tango in Tibet - By Juan Pablo Villarino',
-      '📙 The Alchemist - By Paulo Coelho',
-    ],
-  },
+  ]
 };
 
-
 ```
+</div>
+
+---
+
+<h2 align="center">Do you enjoy reading? 🤓</h2>
+
+<p align="center">📚 Here is a curated list of the books I read, that I would like to share with you... 📚</p>
+
+#### 📖 = Books I'm currently reading
+
+<details>
+  <summary>🛠️ Technical Books:</summary>
+    <ul align='left'>
+      <li>📖 The Pragmatic Programmer - By Andrew Hunt and David Thomas.</li>
+      <li>📘 ProGit - By Scott Chacon and Ben Straub.</li>
+      <li>📘 Think Like a Programmer - By V. Anton Spraul.</li>
+      <li>📖 Javascript The Definitive Guide - By David Flanagan.</li>
+      <li>📘 Learning React - By Alex Banks and Eve Porcello.</li>
+      <li>📖 Redux in Action - By Marc Garreau and Will Faurot.</li>
+      <li>📖 The Ruby programming language - By David Flanagan and Yukihiro Matsumoto.</li>
+    </ul>
+</details>
+
+<details>
+  <summary>🧠 SelfHelp Books:</summary>
+    <ul align='left'>
+      <li>📗 Feel The Fear And Do It Anyway - By Susan Jeffers.</li>
+      <li>📗 Ego is the Enemy - By Ryan Holiday.</li>
+      <li>📗 Growth Mindset - By Carol S. Dweck.</li>
+      <li>📗 Declutter Your Mind - By S.J. Scott and Barrie Davenport.</li>
+    </ul>
+</details>
+
+<details>
+  <summary>🗺️ Travel Books:</summary>
+    <ul align='left'>
+      <li>📙 Hitchhiking in The Axis of Evil - By Juan Pablo Villarino.</li>
+      <li>📙 Always the West - By J.M. Romero.</li>
+      <li>📙 Magic is travelling - By Aldana Chiodi and Dino Feldman.</li>
+      <li>📙 A Tango in Tibet - By Juan Pablo Villarino.</li>
+      <li>📙 The Alchemist - By Paulo Coelho.</li>
+    </ul>
+</details>
+
+---
+
+<div style="text-align: center">
 
 <br>
 
@@ -91,4 +113,5 @@ const profileData = {
 </p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1491e9&height=120&section=footer"/>
+
 </div>
