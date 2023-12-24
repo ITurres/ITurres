@@ -1,7 +1,13 @@
-<img
-  src="media/img/github-lb-header.jpg"
-  alt="banner quoting 'learning to be the best version of myself'"
-  style="display: inline-block; margin: 0 auto; width: 100%;">
+<p align="center">
+  <img
+    src="media/img/github-lb-header.jpg"
+    alt="banner quoting 'learning to be the best version of myself'"
+    style="display: inline-block; margin: 0 auto; width: 100%;">
+  <img 
+    src="media/img/close-for-the-holidays-sign-ch.png"
+    alt="gone for the holidays, merry christmas"
+    style="display: inline-block; margin: 0 auto; width: 25%;">
+</p>
 
 <be>
 
