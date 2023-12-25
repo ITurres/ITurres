@@ -7,9 +7,11 @@
     src="media/img/close-for-the-holidays-sign-ch.png"
     alt="gone for the holidays, merry christmas"
     style="display: inline-block; margin: 0 auto; width: 25%;">
+
+  <p align="center"><strong>15</strong> days left of holidays 🎄</p>
 </p>
 
-<be>
+<br/>
 
 <p align="center">
     <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=22aff3&hide_border=true&title_color=22aff3&text_color=eef8ff&bg_color=042031&rank_icon=percentile&include_all_commits=true">
