@@ -5,7 +5,7 @@
     style="display: inline-block; margin: 0 auto; width: 100%;">
   <img 
     src="media/img/close-for-the-holidays-sign-ch.png"
-    alt="gone for the holidays, merry christmas"
+    alt="gone for the holidays, merry Christmas"
     style="display: inline-block; margin: 0 auto; width: 25%;">
 
   <p align="center"><strong>6</strong> days left of holidays 🎄</p>
@@ -14,7 +14,7 @@
 <br/>
 
 <p align="center">
-    <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=22aff3&hide_border=true&title_color=22aff3&text_color=eef8ff&bg_color=042031&rank_icon=percentile&include_all_commits=true">
+    <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=22aff3&hide_border=true&title_color=22aff3&text_color=eef8ff&bg_color=042031&rank_icon=percentile&include_all_commits=false">
     <img alt= "GitHub Streaks is experiencing some issues..." src="https://github-readme-streak-stats.herokuapp.com?user=ITurres&hide_border=true&date_format=j%20M%5B%20Y%5D&&card_width=400&background=042031&currStreakNum=EEF8FF&currStreakLabel=EEF8FF&dates=22AFF3&ring=22AFF3&fire=F3AC38&sideLabels=EEF8FF&sideNums=22AFF3">
 </p>
 
