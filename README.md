@@ -8,7 +8,7 @@
     alt="gone for the holidays, merry Christmas"
     style="display: inline-block; margin: 0 auto; width: 25%;">
 
-  <p align="center"><strong>5</strong> days left of holidays 🎄</p>
+  <p align="center"><strong>4</strong> days left of holidays 🎄</p>
 </p>
 
 <br/>
