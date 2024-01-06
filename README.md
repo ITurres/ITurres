@@ -8,7 +8,7 @@
     alt="gone for the holidays, merry Christmas"
     style="display: inline-block; margin: 0 auto; width: 25%;">
 
-  <p align="center"><strong>3</strong> days left of holidays 🎄</p>
+  <p align="center"><strong>2</strong> days left of holidays 🎄</p>
 </p>
 
 <br/>
@@ -78,7 +78,7 @@ const profileData = {
       <li>📘 Learning React - By Alex Banks and Eve Porcello.</li>
       <li>📖 Redux in Action - By Marc Garreau and Will Faurot.</li>
       <li>📖 The Ruby programming language - By David Flanagan and Yukihiro Matsumoto.</li>
-      <li>📖 The Phoenix Project, A novel about IT, DevOps and helping your business win - By Gene Kim, George Spafford and Kevin Behr</li>
+      <li>📘 The Phoenix Project, A novel about IT, DevOps and helping your business win - By Gene Kim, George Spafford and Kevin Behr</li>
     </ul>
 </details>
 
