@@ -3,12 +3,6 @@
     src="media/img/github-lb-header.jpg"
     alt="banner quoting 'learning to be the best version of myself'"
     style="display: inline-block; margin: 0 auto; width: 100%;">
-  <img 
-    src="media/img/close-for-the-holidays-sign-ch.png"
-    alt="gone for the holidays, merry Christmas"
-    style="display: inline-block; margin: 0 auto; width: 25%;">
-
-  <p align="center"><strong>1</strong> days left of holidays 🎄</p>
 </p>
 
 <br/>
