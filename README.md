@@ -5,7 +5,19 @@
     style="display: inline-block; margin: 0 auto; width: 100%;">
 </p>
 
-<br/>
+<div align="center" style="text-align: center">
+  <a href="https://iturres.github.io/iturres-reactive-portfolio/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="media/img/reactive-portfolio-favicon.png"
+      alt="arthur iturres logo"
+      width="100"
+      style="display: inline-block; margin: 0 auto;">
+  </a>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Click+my+logo+to+&#9757;+access+my+portfolio)](https://git.io/typing-svg)
+
+</div>
+
 
 <p align="center">
     <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=22aff3&hide_border=true&title_color=22aff3&text_color=eef8ff&bg_color=042031&rank_icon=percentile&include_all_commits=false">
