@@ -77,35 +77,42 @@ const profileData = {
 <details>
   <summary>🛠️ Technical Books:</summary>
     <ul align='left'>
-      <li>📖 The Pragmatic Programmer - By Andrew Hunt and David Thomas.</li>
-      <li>📘 ProGit - By Scott Chacon and Ben Straub.</li>
-      <li>📘 Think Like a Programmer - By V. Anton Spraul.</li>
-      <li>📖 Javascript The Definitive Guide - By David Flanagan.</li>
-      <li>📘 Learning React - By Alex Banks and Eve Porcello.</li>
-      <li>📖 Redux in Action - By Marc Garreau and Will Faurot.</li>
-      <li>📖 The Ruby programming language - By David Flanagan and Yukihiro Matsumoto.</li>
-      <li>📘 The Phoenix Project, A novel about IT, DevOps and helping your business win - By Gene Kim, George Spafford and Kevin Behr</li>
+      <li>📖 "The Pragmatic Programmer" - By Andrew Hunt and David Thomas.</li>
+      <li>📘 "ProGit" - By Scott Chacon and Ben Straub.</li>
+      <li>📘 "Think Like a Programmer" - By V. Anton Spraul.</li>
+      <li>📖 "Javascript The Definitive Guide" - By David Flanagan.</li>
+      <li>📘 "Learning React" - By Alex Banks and Eve Porcello.</li>
+      <li>📖 "Redux in Action" - By Marc Garreau and Will Faurot.</li>
+      <li>📖 "The Ruby programming language" - By David Flanagan and Yukihiro Matsumoto.</li>
+    </ul>
+</details>
+
+<details>
+<summary>💼 Business Books:</summary>
+    <ul align='left'>
+      <li>📕 "The Phoenix Project, A novel about IT, DevOps and helping your business win" - By Gene Kim, George Spafford and Kevin Behr</li>
+      <li>📖 "The Five Dysfunctions of a Team" - By Patrick Lencioni</li>
     </ul>
 </details>
 
 <details>
   <summary>🧠 SelfHelp Books:</summary>
     <ul align='left'>
-      <li>📗 Feel The Fear And Do It Anyway - By Susan Jeffers.</li>
-      <li>📗 Ego is the Enemy - By Ryan Holiday.</li>
-      <li>📗 Growth Mindset - By Carol S. Dweck.</li>
-      <li>📗 Declutter Your Mind - By S.J. Scott and Barrie Davenport.</li>
+      <li>📗 "Feel The Fear And Do It Anyway" - By Susan Jeffers.</li>
+      <li>📗 "Ego is the Enemy" - By Ryan Holiday.</li>
+      <li>📗 "Growth Mindset" - By Carol S. Dweck.</li>
+      <li>📗 "Declutter Your Mind" - By S.J. Scott and Barrie Davenport.</li>
     </ul>
 </details>
 
 <details>
   <summary>🗺️ Travel Books:</summary>
     <ul align='left'>
-      <li>📙 Hitchhiking in The Axis of Evil - By Juan Pablo Villarino.</li>
-      <li>📙 Always the West - By J.M. Romero.</li>
-      <li>📙 Magic is travelling - By Aldana Chiodi and Dino Feldman.</li>
-      <li>📙 A Tango in Tibet - By Juan Pablo Villarino.</li>
-      <li>📙 The Alchemist - By Paulo Coelho.</li>
+      <li>📙 "Hitchhiking in The Axis of Evil" - By Juan Pablo Villarino.</li>
+      <li>📙 "Always the West" - By J.M. Romero.</li>
+      <li>📙 "Magic is travelling" - By Aldana Chiodi and Dino Feldman.</li>
+      <li>📙 "A Tango in Tibet" - By Juan Pablo Villarino.</li>
+      <li>📙 "The Alchemist" - By Paulo Coelho.</li>
     </ul>
 </details>
 
