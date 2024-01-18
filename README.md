@@ -9,7 +9,7 @@
   <a href="https://iturres.github.io/iturres-reactive-portfolio/" target="_blank" rel="noopener noreferrer">
     <img
       src="media/img/reactive-portfolio-favicon.png"
-      alt="arthur iturres logo"
+      alt="Arthur Iturres logo"
       width="100"
       style="display: inline-block; margin: 0 auto;">
   </a>
@@ -90,8 +90,8 @@ const profileData = {
 <details>
 <summary>💼 Business Books:</summary>
     <ul align='left'>
-      <li>📕 "The Phoenix Project, A novel about IT, DevOps and helping your business win" - By Gene Kim, George Spafford and Kevin Behr</li>
-      <li>📖 "The Five Dysfunctions of a Team" - By Patrick Lencioni</li>
+      <li>📕 "The Phoenix Project, A novel about IT, DevOps and helping your business win" - By Gene Kim, George Spafford and Kevin Behr.</li>
+      <li>📖 "The Five Dysfunctions of a Team" - By Patrick Lencioni.</li>
     </ul>
 </details>
 
