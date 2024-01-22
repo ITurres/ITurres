@@ -26,12 +26,21 @@
 
 <div style="text-align: center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Never-ending+learning+journey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Ongoing+tech+exploration)](https://git.io/typing-svg)
 
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=ruby,rails,react,redux,ts,js,jest,html,css,sass,bootstrap,postgresql,sqlite,postman,c,python,flask,regex,webpack,git,bash,md,githubactions,github,linux,figma,vscode" />
+    </a>
+  </p>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Upcoming+learning+path)](https://git.io/typing-svg)
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,angular,styledcomponents,astro,d3" />
     </a>
   </p>
 </div>
