@@ -14,7 +14,7 @@
       style="display: inline-block; margin: 0 auto;">
   </a>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Click+my+logo+to+&#9757;+access+my+portfolio)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Click+above+logo+to+&#9757;+access+my+portfolio)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div style="text-align: center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Ongoing+tech+exploration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Never-ending+learning+journey)](https://git.io/typing-svg)
 
 <div> 
   <p align="center">
@@ -36,14 +36,18 @@
   </p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Upcoming+learning+path)](https://git.io/typing-svg)
+Node.js, Express, Next.js, Angular, Styled Components, Astro, D3
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Excited+about+mastering+ technologies+like)](https://git.io/typing-svg)
+
+<div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,angular,styledcomponents,astro,d3" />
+      <img src="https://skillicons.dev/icons?i=" />
     </a>
   </p>
 </div>
+
 
 <br>
 
