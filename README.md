@@ -101,7 +101,7 @@ const profileData = {
 <summary>💼 Business Books:</summary>
     <ul align='left'>
       <li>📕 "The Phoenix Project, A novel about IT, DevOps and helping your business win" - By Gene Kim, George Spafford and Kevin Behr.</li>
-      <li>📖 "The Five Dysfunctions of a Team" - By Patrick Lencioni.</li>
+      <li>📕 "The Five Dysfunctions of a Team" - By Patrick Lencioni.</li>
     </ul>
 </details>
 
