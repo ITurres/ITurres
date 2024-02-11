@@ -93,7 +93,8 @@ const profileData = {
       <li>📖 "Javascript The Definitive Guide" - By David Flanagan.</li>
       <li>📘 "Learning React" - By Alex Banks and Eve Porcello.</li>
       <li>📖 "Redux in Action" - By Marc Garreau and Will Faurot.</li>
-      <li>📖 "The Ruby programming language" - By David Flanagan and Yukihiro Matsumoto.</li>
+      <li>📘 "The Ruby programming language" - By David Flanagan and Yukihiro Matsumoto.</li>
+      <li>📖 "A Common Sense Guide to DSA - 2nd Edition" - By Jay Wengrow.</li>
     </ul>
 </details>
 
