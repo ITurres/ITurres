@@ -41,7 +41,7 @@
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,angular,styledcomponents,astro,d3,vite,vercel" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,angular,styledcomponents,tailwind,astro,d3,vite,vercel" />
     </a>
   </p>
 </div>
