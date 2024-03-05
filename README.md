@@ -95,6 +95,7 @@ const profileData = {
       <li>📖 "Redux in Action" - By Marc Garreau and Will Faurot.</li>
       <li>📘 "The Ruby programming language" - By David Flanagan and Yukihiro Matsumoto.</li>
       <li>📖 "A Common Sense Guide to DSA - 2nd Edition" - By Jay Wengrow.</li>
+      <li>📖 "You Dont Know JavaScript" - By Kyle Simpson.</li>
     </ul>
 </details>
 
@@ -103,6 +104,7 @@ const profileData = {
     <ul align='left'>
       <li>📕 "The Phoenix Project, A novel about IT, DevOps and helping your business win" - By Gene Kim, George Spafford and Kevin Behr.</li>
       <li>📕 "The Five Dysfunctions of a Team" - By Patrick Lencioni.</li>
+      <li>📖 "The Effective Engineer" - By Edmond Lau.</li>
     </ul>
 </details>
 
