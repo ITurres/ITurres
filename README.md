@@ -14,7 +14,7 @@
       style="display: inline-block; margin: 0 auto;">
   </a>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Click+the+above+logo+to+&#9757;+access+my+portfolio)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+&#9757;+by+clicking+my+logo)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,7 +31,7 @@
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ruby,rails,react,redux,ts,js,jest,html,css,sass,bootstrap,postgresql,sqlite,postman,c,python,flask,regex,webpack,git,bash,md,githubactions,github,linux,figma,vscode" />
+      <img src="https://skillicons.dev/icons?i=ruby,rails,angular,react,redux,ts,js,jest,html,css,sass,bootstrap,postgresql,sqlite,postman,c,python,flask,regex,webpack,git,bash,md,githubactions,github,linux,figma,vscode,webstorm" />
     </a>
   </p>
 </div>
@@ -41,7 +41,7 @@
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,angular,styledcomponents,tailwind,astro,d3,vite,vercel" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,astro,styledcomponents,tailwind,d3,vite,vercel" />
     </a>
   </p>
 </div>
@@ -56,20 +56,19 @@
 ```js
 const profileData = {
   aboutMe: [
-    '👨‍💻 I am a self-taught web developer.',
-    '💻 Focus on front-end development.',
-    '💻 Learning back-end development.',
-    '📚 Fond of technical, travel books, and more.',
-    '🚀 I thrive on collaborating, organizing, and working with peers.',
+    '👨‍💻 I am a Full-stack web developer.',
+    '📚 Fond of technical, business, self-help and travel books, and more.',
+    '🚀 I thrive on collaborating, organizing, and working along peers.',
     "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
     '⌚ I do a bit of watchmaking.',
-    '🙇🏻‍♂️ Currently learning TypeScript, Rails and DSA.',
+    '🖥 I enjoy designing web applications.',
+    '🙇🏻‍♂️ Currently learning TypeScript, Angular and DSA.'
   ],
   futureLearningGoals: [
     '🥖 French.',
     '🐦 Swift.',
-    '🅰️ Angular.',
-    '🏂 Snowboarding.',
+    '🎤 Give technical and soft skills talks.',
+    '🏂 Snowboarding.'
   ]
 };
 
@@ -136,7 +135,7 @@ const profileData = {
 <br>
 
 <p align="center">
-  <img alt = "Github contributor rank is experiencing some issues..." src="https://aktive.kerolloz.dev/argentina/ITurres?label=ITurres+has+been&labelColor=042031&color=22aff3&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
+  <img alt = "Github contributor rank is experiencing some issues..." src="https://aktive.kerolloz.dev/argentina/ITurres?label=Arthur+ITurres+has+been&labelColor=042031&color=22aff3&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
 </p>
 
 <p align="center">
