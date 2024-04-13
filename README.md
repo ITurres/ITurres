@@ -26,12 +26,12 @@
 
 <div style="text-align: center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Current+learning+roadmap)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=What+I've+been+working+with...)](https://git.io/typing-svg)
 
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ruby,rails,angular,react,redux,ts,js,jest,html,css,sass,bootstrap,postgresql,sqlite,postman,c,python,flask,regex,webpack,git,bash,md,githubactions,github,linux,figma,vscode,webstorm" />
+      <img src="https://skillicons.dev/icons?i=ruby,rails,angular,react,redux,ts,js,jest,html,css,sass,bootstrap,postgresql,sqlite,postman,wordpress,c,python,flask,regex,webpack,git,bash,md,githubactions,github,linux,figma,vscode,webstorm" />
     </a>
   </p>
 </div>
@@ -41,7 +41,7 @@
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,astro,styledcomponents,tailwind,php,wordpress,d3,vite,vercel" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,astro,styledcomponents,tailwind,php,d3,vite,vercel" />
     </a>
   </p>
 </div>
