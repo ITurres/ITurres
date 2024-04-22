@@ -58,7 +58,7 @@ const profileData = {
   aboutMe: [
     '👨‍💻 I am a Full-stack web developer.',
     '📚 Fond of technical, business, self-help and travel books, and more.',
-    '🚀 I thrive on collaborating, organizing, and working along peers.',
+    '🚀 I thrive on collaborating, organizing, and working with peers.',
     "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
     '⌚ I do a bit of watchmaking.',
     '🖥 I enjoy designing web applications.',
@@ -67,6 +67,7 @@ const profileData = {
   futureLearningGoals: [
     '🥖 French.',
     '🐦 Swift.',
+    '🤖 Kotlin.',
     '🎤 Give technical and soft skills talks.',
     '🏂 Snowboarding.'
   ]
