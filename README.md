@@ -26,7 +26,7 @@
 
 <div style="text-align: center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=FE7346&center=true&vCenter=true&width=1000&lines=What+I've+been+working+with...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=FE7346&center=true&vCenter=true&width=1000&lines=What+I'm/'ve+been+working+with...)](https://git.io/typing-svg)
 
 <div> 
   <p align="center">
