@@ -99,6 +99,7 @@ const profileData = {
       <li>📘 "The Ruby programming language" - By David Flanagan and Yukihiro Matsumoto.</li>
       <li>📖 "A Common Sense Guide to DSA - 2nd Edition" - By Jay Wengrow.</li>
       <li>📖 "You Dont Know JavaScript" - By Kyle Simpson.</li>
+      <li>📖 "Clean Code" - By Robert C. Martin.</li>      
     </ul>
 </details>
 
