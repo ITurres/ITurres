@@ -31,7 +31,7 @@
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ruby,rails,angular,react,redux,ts,js,jest,html,css,sass,bootstrap,postgresql,sqlite,postman,wordpress,c,python,flask,regex,webpack,babel,npm,git,bash,md,githubactions,github,linux,figma,vscode,webstorm" />
+      <img src="https://skillicons.dev/icons?i=ruby,rails,angular,rxjs,react,redux,ts,js,jest,html,css,sass,bootstrap,postgresql,sqlite,postman,wordpress,c,python,flask,regex,webpack,babel,npm,git,bash,md,githubactions,github,linux,figma,vscode,webstorm" />
     </a>
   </p>
 </div>
