@@ -56,13 +56,13 @@
 ```js
 const profileData = {
   aboutMe: [
-    '👨‍💻 I am a Full-stack web developer @Awesome.',
-    '📚 Fond of technical, business, self-help, travel books, and more.',
-    '🚀 I thrive on collaborating, organizing, and working with peers.',
+    '👨‍💻 Full-stack We Engineer at @Awesome.',
+    '📚 Fond of technical, business, self-help and travel books.',
+    '🚀 I thrive on collaborating, organizing, and working with teams.',
     "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
     '⌚ I do a bit of watchmaking.',
     '🖥 I enjoy designing web applications.',
-    '🙇🏻‍♂️ Currently learning Angular in depth.',
+    '🙇🏻‍♂️ Currently working with Angular in depth.',
     '🌟 Besides web development in general, I specialize in optimizing development workflows,
         enforcing coding and programming standards, and advocating for adherence to best
         practices to ensure clean and professional codebases.'
