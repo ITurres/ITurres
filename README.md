@@ -13,11 +13,12 @@
       width="100"
       style="display: inline-block; margin: 0 auto;">
   </a>
-  
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=FE7346&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+&#9757;+by+clicking+my+logo)](https://git.io/typing-svg)
 
+  [Mi Curriculum 🇦🇷](https://drive.google.com/file/d/1wEnUMbdMDQSG209RDWgfTqqxpG54mmbU/view?usp=sharing).
+  [My Resume 🇬🇧 (needs updating)]().
 </div>
-
 
 <p align="center">
     <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=60245D&hide_border=true&title_color=FE7346&text_color=eef8ff&bg_color=150C07&rank_icon=percentile&include_all_commits=false">
@@ -28,7 +29,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=FE7346&center=true&vCenter=true&width=1000&lines=What+I'm/'ve+been+working+with...)](https://git.io/typing-svg)
 
-<div> 
+<div>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=ruby,rails,angular,rxjs,react,redux,ts,js,jest,html,css,sass,bootstrap,postgresql,sqlite,postman,wordpress,c,python,flask,regex,webpack,babel,npm,git,bash,md,githubactions,github,linux,figma,vscode,webstorm" />
@@ -38,7 +39,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=FE7346&center=true&vCenter=true&width=1000&lines=Next...)](https://git.io/typing-svg)
 
-<div> 
+<div>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,astro,styledcomponents,tailwind,php,d3,vite,vercel" />
@@ -77,6 +78,7 @@ const arthurIturres = {
 };
 
 ```
+
 </div>
 
 ---
@@ -99,7 +101,7 @@ const arthurIturres = {
       <li>📘 "The Ruby programming language" - By David Flanagan and Yukihiro Matsumoto.</li>
       <li>📖 "A Common Sense Guide to DSA - 2nd Edition" - By Jay Wengrow.</li>
       <li>📖 "You Dont Know JavaScript" - By Kyle Simpson.</li>
-      <li>📖 "Clean Code" - By Robert C. Martin.</li>      
+      <li>📖 "Clean Code" - By Robert C. Martin.</li>
     </ul>
 </details>
 
