@@ -63,7 +63,7 @@ const arthurIturres = {
     "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
     '⌚ I do a bit of watchmaking.',
     '🖥 I enjoy designing web applications.',
-    '🙇🏻‍♂️ Currently working with Angular in depth.',
+    '🙇🏻‍♂️ Currently working with Angular + Skote',
     '🌟 Besides web development in general, I specialize in optimizing development workflows,
         enforcing coding and programming standards, and advocating for adherence to best
         practices to ensure clean and professional codebases.'
