@@ -150,7 +150,7 @@ const arthurIturres = {
 </p>
   
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ITurres&color=7FE1FE&style=for-the-badge&label=PROFILE+VIEWS">  
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ITurres&color=040231&style=for-the-badge&label=PROFILE+VIEWS">  
 </p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FE1FE&height=120&section=footer"/>
