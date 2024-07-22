@@ -73,7 +73,8 @@ const arthurIturres = {
     '🐦 Swift.',
     '🤖 Kotlin.',
     '🎤 Give technical and soft skills talks.',
-    '🏂 Snowboarding.'
+    '🏂 Snowboarding.',
+    '⛵ How to hitchhike a boat.'
   ]
 };
 
