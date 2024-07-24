@@ -74,7 +74,7 @@ const arthurIturres = {
     '🤖 Kotlin.',
     '🎤 Give technical and soft skills talks.',
     '🏂 Snowboarding.',
-    '⛵ How to hitchhike a boat.'
+    '⛵ Hitchhike a boat.'
   ]
 };
 
