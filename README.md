@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="media/img/github-lb-header.jpg"
+    src="media/img/github-yellow-header.jpg"
     alt="banner quoting 'learning to be the best version of myself'"
     style="display: inline-block; margin: 0 auto; width: 100%;">
 </p>
@@ -14,20 +14,20 @@
       style="display: inline-block; margin: 0 auto;">
   </a>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+&#9757;+by+clicking+my+logo)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=f3b231&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+&#9757;+by+clicking+my+logo)](https://git.io/typing-svg)
 
-  [My Resume 🇬🇧](https://docs.google.com/document/d/1oCGTGmHpSoumnVm-3aEKVdW8zkpKnAbf/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true) ⬅️➡️ 
+  [My Resume 🇬🇧](https://docs.google.com/document/d/1oCGTGmHpSoumnVm-3aEKVdW8zkpKnAbf/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true) ⬅️➡️
   [Mi Curriculum 🇦🇷](https://docs.google.com/document/d/155WWAGTIkLMuwPwve3K_Cw6bJuktdht8/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true)
 </div>
 
 <p align="center">
-    <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=F3AC38&hide_border=true&title_color=7FE1FE&text_color=eef8ff&bg_color=042031&rank_icon=percentile&include_all_commits=false">
-    <img alt= "GitHub Streaks is experiencing some issues..." src="https://github-readme-streak-stats.herokuapp.com?user=ITurres&hide_border=true&date_format=j%20M%5B%20Y%5D&&card_width=400&background=042031&currStreakNum=EEF8FF&currStreakLabel=EEF8FF&dates=7FE1FE&ring=7FE1FE&fire=F3AC38&sideLabels=EEF8FF&sideNums=22AFF3">
+    <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=121212&hide_border=true&title_color=7f44de&text_color=efefef&bg_color=fbad10&rank_icon=percentile&include_all_commits=false">
+    <img alt= "GitHub Streaks is experiencing some issues..." src="https://github-readme-streak-stats.herokuapp.com?user=ITurres&hide_border=true&date_format=j%20M%5B%20Y%5D&&card_width=400&background=fbad10&currStreakNum=efefef&currStreakLabel=eb6951&dates=121212&ring=7f44de&fire=eb6951&sideLabels=eb6951&sideNums=efefef">
 </p>
 
 <div style="text-align: center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=What+I'm/'ve+been+working+with...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=4aa4d8&center=true&vCenter=true&width=1000&lines=What+I'm/'ve+been+working+with...)](https://git.io/typing-svg)
 
 <div>
   <p align="center">
@@ -37,7 +37,7 @@
   </p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=7FE1FE&center=true&vCenter=true&width=1000&lines=Next...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=eb6951&center=true&vCenter=true&width=1000&lines=Next...)](https://git.io/typing-svg)
 
 <div>
   <p align="center">
@@ -143,17 +143,17 @@ const arthurIturres = {
 <br>
 
 <p align="center">
-  <img alt = "Github contributor rank is experiencing some issues..." src="https://aktive.kerolloz.dev/argentina/ITurres?label=Arthur+ITurres+has+been&labelColor=040231&color=22AFF3&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
+  <img alt = "Github contributor rank is experiencing some issues..." src="https://aktive.kerolloz.dev/argentina/ITurres?label=Arthur+ITurres+has+been&labelColor=eb6951&color=7f44de&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
 </p>
 
 <p align="center">
-  <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&hide=html&title_color=7FE1FE&text_color=eef8ff&bg_color=042031&layout=donut"/>
+  <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITurres&hide_border=true&hide=html&title_color=7f44de&text_color=efefef&bg_color=fbad10&layout=donut"/>
 </p>
   
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ITurres&color=040231&style=for-the-badge&label=PROFILE+VIEWS">  
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ITurres&color=f3b231&style=for-the-badge&label=PROFILE+VIEWS">  
 </p>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FE1FE&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fbad10&height=120&section=footer"/>
 
 </div>
