@@ -1,0 +1,18 @@
+:root {
+  /* * Yellow theme */
+  --typing-svg-yellow: #f3b231;
+  --side-numbers-yellow: #e7a326;
+  --bg-yellow: #fbad10;
+
+  /* * Lightblue theme */
+  --typing-svg-lightblue: #7fe1fe;
+  --side-numbers-lightblue: #22aff3;
+  --bg-lightblue: #042031;
+
+  /* * General */
+  --orange: #eb6951;
+  --purple: #7f44de;
+  --lightblue: #4aa4d8;
+  --text-light: #efefef;
+  --text-dark: #121212;
+}
