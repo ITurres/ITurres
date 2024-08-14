@@ -61,7 +61,7 @@ const arthurIturres = {
     '📚 Fond of technical, business, self-help and travel books.',
     '🚀 I thrive on collaborating, organizing, and working with teams.',
     "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
-    '⌚ I do a bit of watchmaking.',
+    '⌚🪵 I do a bit of watchmaking and Wood work.',
     '🖥 I enjoy designing web applications.',
     '🙇🏻‍♂️ Currently working with Angular + Skote',
     '🌟 Besides web development in general, I specialize in optimizing development workflows,
