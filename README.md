@@ -57,7 +57,7 @@
 ```js
 const arthurIturres = {
   about: [
-    '👨‍💻 Full-stack Web Engineer at @Awesome.',
+    '👨‍💻 Full-stack Web Engineer at NetNet LLC.',
     '📚 Fond of technical, business, self-help and travel books.',
     '🚀 I thrive on collaborating, organizing, and working with teams.',
     "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
