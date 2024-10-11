@@ -57,7 +57,8 @@
 ```js
 const arthurIturres = {
   about: [
-    '👨‍💻 Full-stack Web Engineer at NetNet LLC.',
+    '👨‍💻 Web Engineer at NetNet LLC, GeeksLabs LLC and Awesome Org',
+    '👨‍🏫 Web Development Instructor at Bootcamp Xperience',
     '📚 Fond of technical, business, self-help and travel books.',
     '🚀 I thrive on collaborating, organizing, and working with teams.',
     "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
@@ -98,7 +99,7 @@ const arthurIturres = {
       <li>📘 "Think Like a Programmer" - By V. Anton Spraul.</li>
       <li>📖 "Javascript The Definitive Guide" - By David Flanagan.</li>
       <li>📘 "Learning React" - By Alex Banks and Eve Porcello.</li>
-      <li>📖 "Redux in Action" - By Marc Garreau and Will Faurot.</li>
+      <li>📘 "Redux in Action" - By Marc Garreau and Will Faurot.</li>
       <li>📘 "The Ruby programming language" - By David Flanagan and Yukihiro Matsumoto.</li>
       <li>📖 "A Common Sense Guide to DSA - 2nd Edition" - By Jay Wengrow.</li>
       <li>📖 "You Dont Know JavaScript" - By Kyle Simpson.</li>
@@ -112,6 +113,8 @@ const arthurIturres = {
       <li>📕 "The Phoenix Project, A novel about IT, DevOps and helping your business win" - By Gene Kim, George Spafford and Kevin Behr.</li>
       <li>📕 "The Five Dysfunctions of a Team" - By Patrick Lencioni.</li>
       <li>📖 "The Effective Engineer" - By Edmond Lau.</li>
+      <li>📖 "Slicing Pie: Funding Your Company Without Funds" - By Mike Moyer.</li>
+      <li>📖 "The Manager's Path - A Guide for Tech Leaders Navigating Growth & Change" - By Camille Fournier.</li>
     </ul>
 </details>
 
