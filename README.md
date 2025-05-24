@@ -57,14 +57,17 @@
 ```js
 const arthurIturres = {
   about: [
-    '👨‍💻 Web Engineer at NetNet LLC, GeeksLabs LLC and Awesome Org',
+    '👷🏼‍♂️ Currently working on a Workflow Management System,
+        Coaching Managememt System and an E-commerce',
+    '👨‍💻 Technical Team Lead at NetNet LLC,
+        Frontend Web Engineer at Awesome Org',
     '👨‍🏫 Web Development Instructor at Bootcamp Xperience',
     '📚 Fond of technical, business, self-help and travel books.',
-    '🚀 I thrive on collaborating, organizing, and working with teams.',
+    '🚀 I thrive on Leading, collaborating, organizing, and working with teams.',
     "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
     '⌚🪵 I do a bit of watchmaking and Wood work.',
     '🖥 I enjoy designing web applications.',
-    '🙇🏻‍♂️ Currently working with Angular + Skote',
+    '🙇🏻‍♂️ Currently working with React.ts and Angular',
     '🌟 Besides web development in general, I specialize in optimizing development workflows,
         enforcing coding and programming standards, and advocating for adherence to best
         practices to ensure clean and professional codebases.'
