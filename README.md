@@ -69,8 +69,8 @@ const arthurIturres = {
     '🖥 I enjoy designing web applications.',
     '🙇🏻‍♂️ Currently working with React.ts and Angular',
     '🌟 Besides web development in general, I specialize in optimizing development workflows,
-        enforcing coding and programming standards, and advocating for adherence to best
-        practices to ensure clean and professional codebases.'
+        enforcing programming standards, and advocating for adherence to best
+        practices to ensure clean, scalable and professional codebases.'
   ],
   futureLearningGoals: [
     '🥖 French.',
