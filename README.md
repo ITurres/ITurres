@@ -57,10 +57,10 @@
 ```js
 const arthurIturres = {
   about: [
-    '👷🏼‍♂️ Currently working on a Workflow Management System,
-        Coaching Managememt System and an E-commerce',
-    '👨‍💻 Technical Team Lead at NetNet LLC,
-        Frontend Web Engineer at Awesome Org',
+    `👷🏼‍♂️ Currently working on a Workflow Management System,
+        Coaching Managememt System and an E-commerce`,
+    `👨‍💻 Technical Team Lead at NetNet LLC,
+        Frontend Web Engineer at Awesome Org`,
     '👨‍🏫 Web Development Instructor at Bootcamp Xperience',
     '📚 Fond of technical, business, self-help and travel books.',
     '🚀 I thrive on Leading, collaborating, organizing, and working with teams.',
@@ -68,9 +68,9 @@ const arthurIturres = {
     '⌚🪵 I do a bit of watchmaking and Wood work.',
     '🖥 I enjoy designing web applications.',
     '🙇🏻‍♂️ Currently working with React.ts and Angular',
-    '🌟 Besides web development in general, I specialize in optimizing development workflows,
+    `🌟 Besides web development in general, I specialize in optimizing development workflows,
         enforcing programming standards, and advocating for adherence to best
-        practices to ensure clean, scalable and professional codebases.'
+        practices to ensure clean, scalable and professional codebases.`
   ],
   futureLearningGoals: [
     '🥖 French.',
