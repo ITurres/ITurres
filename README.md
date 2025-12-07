@@ -150,6 +150,8 @@ const arthurIturres = {
 
 <p align="center">
   <img alt = "Github contributor rank is experiencing some issues..." src="https://aktive.kerolloz.dev/argentina/ITurres?label=Arthur+ITurres+has+been&labelColor=eb6951&color=7f44de&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
+
+  <p align="center">I once was ranked at 5th place 😭</p>
 </p>
 
 <p align="center">
