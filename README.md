@@ -90,22 +90,22 @@ const arthurIturres = {
 
 <h2 align="center">Do you enjoy reading? 🤓</h2>
 
-<p align="center">📚 Here is a curated list of the books I read, that I would like to share with you... 📚</p>
+<p align="center">📚 Here is a curated list of books, that I would like to share with you... 📚 pick your topic!</p>
 
 #### 📖 = Books I'm currently reading
 
 <details>
   <summary>🛠️ Technical Books:</summary>
     <ul align='left'>
-      <li>📖 "The Pragmatic Programmer" - By Andrew Hunt and David Thomas.</li>
+      <li>📘 "The Pragmatic Programmer" - By Andrew Hunt and David Thomas.</li>
       <li>📘 "ProGit" - By Scott Chacon and Ben Straub.</li>
       <li>📘 "Think Like a Programmer" - By V. Anton Spraul.</li>
-      <li>📖 "Javascript The Definitive Guide" - By David Flanagan.</li>
+      <li>📘 "Javascript The Definitive Guide" - By David Flanagan.</li>
       <li>📘 "Learning React" - By Alex Banks and Eve Porcello.</li>
       <li>📘 "Redux in Action" - By Marc Garreau and Will Faurot.</li>
       <li>📘 "The Ruby programming language" - By David Flanagan and Yukihiro Matsumoto.</li>
       <li>📖 "A Common Sense Guide to DSA - 2nd Edition" - By Jay Wengrow.</li>
-      <li>📖 "You Dont Know JavaScript" - By Kyle Simpson.</li>
+      <li>📘 "You Dont Know JavaScript" - By Kyle Simpson.</li>
       <li>📖 "Clean Code" - By Robert C. Martin.</li>
     </ul>
 </details>
@@ -116,7 +116,7 @@ const arthurIturres = {
       <li>📕 "The Phoenix Project, A novel about IT, DevOps and helping your business win" - By Gene Kim, George Spafford and Kevin Behr.</li>
       <li>📕 "The Five Dysfunctions of a Team" - By Patrick Lencioni.</li>
       <li>📖 "The Effective Engineer" - By Edmond Lau.</li>
-      <li>📖 "Slicing Pie: Funding Your Company Without Funds" - By Mike Moyer.</li>
+      <li>📕 "Slicing Pie: Funding Your Company Without Funds" - By Mike Moyer.</li>
       <li>📖 "The Manager's Path - A Guide for Tech Leaders Navigating Growth & Change" - By Camille Fournier.</li>
     </ul>
 </details>
@@ -128,6 +128,13 @@ const arthurIturres = {
       <li>📗 "Ego is the Enemy" - By Ryan Holiday.</li>
       <li>📗 "Growth Mindset" - By Carol S. Dweck.</li>
       <li>📗 "Declutter Your Mind" - By S.J. Scott and Barrie Davenport.</li>
+    </ul>
+</details>
+
+<details>
+  <summary>🪙 Finance Books:</summary>
+    <ul align='left'>
+      <li>📖 "The Richest Man in Babylon" - By George S. Clason.</li>
     </ul>
 </details>
 
