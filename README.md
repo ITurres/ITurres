@@ -134,7 +134,8 @@ const arthurIturres = {
 <details>
   <summary>🪙 Finance Books:</summary>
     <ul align='left'>
-      <li>📖 "The Richest Man in Babylon" - By George S. Clason.</li>
+      <li>📓 "The Richest Man in Babylon" - By George S. Clason.</li>
+      <li>📖 "Financial Statements" - By Thomas R. Ittelson.</li>
     </ul>
 </details>
 
