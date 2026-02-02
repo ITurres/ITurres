@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="media/img/github-yellow-header.jpg"
+    src="media/img/github-lb-header.jpg"
     alt="banner quoting 'learning to be the best version of myself'"
     style="display: inline-block; margin: 0 auto; width: 100%;">
 </p>
@@ -8,13 +8,13 @@
 <div align="center" style="text-align: center">
   <a href="https://iturres.github.io/iturres-reactive-portfolio/" target="_blank" rel="noopener noreferrer">
     <img
-      src="media/img/reactive-portfolio-favicon.png"
+      src="media/img/arthur-iturres-2026-logo.png"
       alt="Arthur Iturres logo"
       width="100"
       style="display: inline-block; margin: 0 auto;">
   </a>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=f3b231&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+&#9757;+by+clicking+my+logo)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=00D7FD&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+&#9757;+by+clicking+the+logo)](https://git.io/typing-svg)
 
   [My Resume 🇬🇧](https://docs.google.com/document/d/1oCGTGmHpSoumnVm-3aEKVdW8zkpKnAbf/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true) ⬅️➡️
   [Mi Curriculum 🇦🇷](https://docs.google.com/document/d/155WWAGTIkLMuwPwve3K_Cw6bJuktdht8/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true)
@@ -22,12 +22,12 @@
 
 <p align="center">
     <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=121212&hide_border=true&title_color=7f44de&text_color=efefef&bg_color=fbad10&rank_icon=percentile&include_all_commits=false">
-    <img alt= "GitHub Streaks is experiencing some issues..." src="https://github-readme-streak-stats.herokuapp.com?user=ITurres&hide_border=true&date_format=j%20M%5B%20Y%5D&&card_width=400&background=fbad10&currStreakNum=efefef&currStreakLabel=eb6951&dates=121212&ring=7f44de&fire=eb6951&sideLabels=eb6951&sideNums=efefef">
+    <img alt= "GitHub Streaks is experiencing some issues..." src="https://github-readme-streak-stats.herokuapp.com?user=ITurres&hide_border=true&date_format=j%20M%5B%20Y%5D&&card_width=400&background=00d7fd&currStreakNum=efefef&currStreakLabel=eb6951&dates=121212&ring=7f44de&fire=eb6951&sideLabels=eb6951&sideNums=efefef">
 </p>
 
 <div style="text-align: center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=4aa4d8&center=true&vCenter=true&width=1000&lines=What+I'm/'ve+been+working+with...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=AC41B4&center=true&vCenter=true&width=1000&lines=What+I'm/'ve+been+working+with...)](https://git.io/typing-svg)
 
 <div>
   <p align="center">
@@ -37,7 +37,7 @@
   </p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=eb6951&center=true&vCenter=true&width=1000&lines=Next...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=00D7FD&center=true&vCenter=true&width=1000&lines=Next...)](https://git.io/typing-svg)
 
 <div>
   <p align="center">
@@ -135,7 +135,7 @@ const arthurIturres = {
   <summary>🪙 Finance Books:</summary>
     <ul align='left'>
       <li>📓 "The Richest Man in Babylon" - By George S. Clason.</li>
-      <li>📖 "Financial Statements" - By Thomas R. Ittelson.</li>
+      <li>📖 "Financial Statements" - Bys Thomas R. Ittelson.</li>
     </ul>
 </details>
 
@@ -157,7 +157,7 @@ const arthurIturres = {
 <br>
 
 <p align="center">
-  <img alt = "Github contributor rank is experiencing some issues..." src="https://aktive.kerolloz.dev/argentina/ITurres?label=Arthur+ITurres+has+been&labelColor=eb6951&color=7f44de&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
+  <img alt = "Github contributor rank is experiencing some issues..." src="https://aktive.kerolloz.dev/argentina/ITurres?label=Arthur+ITurres+has+been&labelColor=00D7FD&color=AC41B4&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
 
   <p align="center">I once was ranked at 5th place 😭</p>
 </p>
@@ -167,9 +167,9 @@ const arthurIturres = {
 </p>
   
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ITurres&color=f3b231&style=for-the-badge&label=PROFILE+VIEWS">  
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ITurres&color=AC41B4&style=for-the-badge&label=PROFILE+VIEWS">  
 </p>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fbad10&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D7FD&height=120&section=footer"/>
 
 </div>
