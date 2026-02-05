@@ -6,7 +6,7 @@
 </p>
 
 <div align="center" style="text-align: center">
-  <a href="https://iturres.github.io/iturres-reactive-portfolio/" target="_blank" rel="noopener noreferrer">
+  <a href="https://arthuriturres.web.app/" target="_blank" rel="noopener noreferrer">
     <img
       src="media/img/arthur-iturres-2026-logo.png"
       alt="Arthur Iturres logo"
