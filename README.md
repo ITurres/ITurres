@@ -14,16 +14,12 @@
       style="display: inline-block; margin: 0 auto;">
   </a>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=00D7FD&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+&#9757;+by+clicking+the+logo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=00D7FD&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+☝+by+clicking+the+logo)](https://git.io/typing-svg)
 
-  [My Resume 🇬🇧](https://docs.google.com/document/d/1oCGTGmHpSoumnVm-3aEKVdW8zkpKnAbf/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true) ⬅️➡️
-  [Mi Curriculum 🇦🇷](https://docs.google.com/document/d/155WWAGTIkLMuwPwve3K_Cw6bJuktdht8/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true)
+[My Resume 🇬🇧](https://docs.google.com/document/d/1oCGTGmHpSoumnVm-3aEKVdW8zkpKnAbf/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true) ⬅️➡️
+[Mi Curriculum (Outdated) 🇦🇷](https://docs.google.com/document/d/155WWAGTIkLMuwPwve3K_Cw6bJuktdht8/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true)
+
 </div>
-
-<p align="center">
-    <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=121212&hide_border=true&title_color=7f44de&text_color=efefef&bg_color=fbad10&rank_icon=percentile&include_all_commits=false">
-    <img alt= "GitHub Streaks is experiencing some issues..." src="https://github-readme-streak-stats.herokuapp.com?user=ITurres&hide_border=true&date_format=j%20M%5B%20Y%5D&&card_width=400&background=00d7fd&currStreakNum=efefef&currStreakLabel=eb6951&dates=121212&ring=7f44de&fire=eb6951&sideLabels=eb6951&sideNums=efefef">
-</p>
 
 <div style="text-align: center">
 
@@ -47,6 +43,11 @@
   </p>
 </div>
 
+<p align="center">
+    <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=ITurres&show_icons=true&icon_color=121212&hide_border=true&title_color=7f44de&text_color=efefef&bg_color=fbad10&rank_icon=percentile&include_all_commits=false">
+    <img alt= "GitHub Streaks is experiencing some issues..." src="https://github-readme-streak-stats.herokuapp.com?user=ITurres&hide_border=true&date_format=j%20M%5B%20Y%5D&&card_width=400&background=00d7fd&currStreakNum=efefef&currStreakLabel=eb6951&dates=121212&ring=7f44de&fire=eb6951&sideLabels=eb6951&sideNums=efefef">
+</p>
+
 <br>
 
 <!-- <img
@@ -58,30 +59,28 @@
 const arthurIturres = {
   about: [
     `👷🏼‍♂️ Currently working on a Workflow Management System,
-        Coaching Managememt System and an E-commerce`,
-    `👨‍💻 Technical Team Lead at NetNet LLC,
-        Frontend Web Engineer at Awesome Org`,
-    '👨‍🏫 Web Development Instructor at Bootcamp Xperience',
+        APIs, MCPs, SDKs and multiple Applications`,
+    `👨‍💻 Technical Team Lead at Net Net LLC,
+        Fullstack Engineer at Moveris`,
+    '🤖 Owner of Nomada (@nomada-netnet)',
     '📚 Fond of technical, business, self-help and travel books.',
     '🚀 I thrive on Leading, collaborating, organizing, and working with teams.',
     "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
     '⌚🪵 I do a bit of watchmaking and Wood work.',
     '🖥 I enjoy designing web applications.',
-    '🙇🏻‍♂️ Currently working with React.ts and Angular',
+    '🙇🏻‍♂️ Currently working with Next/React and Django',
     `🌟 Besides web development in general, I specialize in optimizing development workflows,
         enforcing programming standards, and advocating for adherence to best
-        practices to ensure clean, scalable and professional codebases.`
+        practices to ensure clean, scalable and professional codebases.`,
   ],
   futureLearningGoals: [
     '🥖 French.',
     '🐦 Swift.',
     '🤖 Kotlin.',
-    '🎤 Give technical and soft skills talks.',
     '🏂 Snowboarding.',
-    '⛵ Hitchhike a boat.'
-  ]
+    '⛵ Hitchhike a boat.',
+  ],
 };
-
 ```
 
 </div>
@@ -159,7 +158,7 @@ const arthurIturres = {
 <p align="center">
   <img alt = "Github contributor rank is experiencing some issues..." src="https://aktive.kerolloz.dev/argentina/ITurres?label=Arthur+ITurres+has+been&labelColor=00D7FD&color=AC41B4&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Argentina"/>
 
-  <p align="center">I once was ranked at 5th place 😭</p>
+  <p align="center">I was once ranked at 5th place 😭</p>
 </p>
 
 <p align="center">
