@@ -28,7 +28,7 @@
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,rxjs,react,redux,nextjs,ruby,rails,ts,js,jest,html,css,sass,bootstrap,mui,emotion,postgresql,sqlite,postman,wordpress,c,python,flask,regex,vite,webpack,babel,npm,git,bash,md,githubactions,github,linux,figma,vscode,webstorm" />
+      <img src="https://skillicons.dev/icons?i=angular,rxjs,react,redux,nextjs,ruby,rails,nodejs,express,ts,js,jest,html,css,sass,bootstrap,mui,emotion,tailwind,postgresql,sqlite,postman,wordpress,c,python,flask,regex,vite,webpack,vercel,babel,npm,git,bash,md,githubactions,github,linux,figma,vscode,webstorm" />
     </a>
   </p>
 </div>
@@ -38,7 +38,7 @@
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,astro,styledcomponents,tailwind,php,d3,vercel" />
+      <img src="https://skillicons.dev/icons?i=nestjs,astro,styledcomponents,php,d3" />
     </a>
   </p>
 </div>
@@ -59,9 +59,9 @@
 const arthurIturres = {
   about: [
     `👷🏼‍♂️ Currently working on a Workflow Management System,
-        APIs, MCPs, SDKs and multiple Applications`,
+        APIs, MCPs, SDKs, Bots and multiple Applications`,
     `👨‍💻 Technical Team Lead at Net Net LLC,
-        Fullstack Engineer at Moveris`,
+        Full-stack Engineer (Frontend Lead) at Moveris`,
     '🤖 Owner of Nomada (@nomada-netnet)',
     '📚 Fond of technical, business, self-help and travel books.',
     '🚀 I thrive on Leading, collaborating, organizing, and working with teams.',
