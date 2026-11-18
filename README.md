@@ -16,8 +16,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=00D7FD&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+☝+by+clicking+the+logo)](https://git.io/typing-svg)
 
-[My Resume 🇬🇧](https://docs.google.com/document/d/1oCGTGmHpSoumnVm-3aEKVdW8zkpKnAbf/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true) ⬅️➡️
-[Mi Curriculum (Outdated) 🇦🇷](https://docs.google.com/document/d/155WWAGTIkLMuwPwve3K_Cw6bJuktdht8/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true)
+[My Resume 🇬🇧](https://drive.google.com/file/d/1glty7vMxoGMOFhy9GdmK6GuAQy_JeToE/view?usp=sharing)
+<!-- ⬅️➡️
+[Mi Curriculum (Outdated) 🇦🇷](https://docs.google.com/document/d/155WWAGTIkLMuwPwve3K_Cw6bJuktdht8/edit?usp=sharing&ouid=111255547278244482581&rtpof=true&sd=true) -->
 
 </div>
 
@@ -59,7 +60,7 @@
 const arthurIturres = {
   about: [
     `👷🏼‍♂️ Currently working on a Workflow Management System,
-        APIs, MCPs, SDKs, Bots and multiple Applications`,
+        APIs, SDKs, Bots and multiple Applications`,
     `👨‍💻 Technical Team Lead at Net Net LLC,
         Full-stack Engineer (Frontend Lead) at Moveris`,
     '🤖 Owner of Nomada (@nomada-netnet)',
